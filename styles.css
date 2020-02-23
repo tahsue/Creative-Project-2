@@ -1,0 +1,65 @@
+body {
+  background-color: #657073;
+}
+* {
+  font-family: 'Roboto';
+}
+
+.title {
+  text-align: center;
+  background-color: #070C0D;
+  color: white;
+  margin: 0px;
+  padding-top: 50px;
+  padding-bottom:50px;
+  font-size: 3em;
+} 
+
+form {
+  margin-left: 10px;
+  display: inline-block;
+  margin-right:10px;
+}
+form p {
+  font-size: 1.25em;
+  color: white;
+  display: inherit;
+}
+.wordSubmit {
+  height: 50px;
+}
+.webResults {
+  background-color: #263940;
+  color: white;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.titleWord {
+  font-size: 2.7em;
+  margin-left: 40px;
+  font-weight: bold;
+}
+.movieItem {
+  margin-left: 40px;
+  font-size: 1.5em;
+  padding: 5px;
+}
+b {
+  font-weight: bold;
+  text-decoration: underline;}
+img {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+footer {
+    text-align: center;
+    min-height: 150px;
+    width: 100%;
+    padding-top: 75px;
+    background-color: #4A5559;
+}
+footer a {
+  color: white;
+}
